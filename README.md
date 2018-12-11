@@ -1,8 +1,7 @@
 
-###An Erlang translator wirh code security check written in Erlang
+# An Erlang translator wirh code security check written in Erlang
 
-####Exported functions:
-
+## Exported functions:
 * hberl_compiler:compile(File)
 * hberl_compiler:compile(File, Options)
 * hberl_compiler:compile2file(SourceFile,DestFile)
